@@ -27,7 +27,7 @@
      margin-top: 40px;
      color: #007bff;
    }
-   .brands, .services {
+  , .services {
      display: flex;
      flex-wrap: wrap;
      gap: 15px;
@@ -35,7 +35,7 @@
    }
    .box {
      flex: 1 1 calc(33.333% - 30px);
-     white;
+     background: white;
      padding: 15px;
      border-radius: 8px;
      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -100,18 +100,17 @@
 <div class="box">Kitchen Plumbing</div>
 <div class="box">Water Heater Installation</div>
 <div class="box">Leak Detection & Repair</div>
-<div class="box">Drain Cleaning</div>
 <div class="box">Pipe Fitting & Replacement</div>
 <div class="box">Water Tank Setup</div>
 </div>
 <h2>Gallery</h2>
 <div class="gallery">
-<img src="https://images.unsplash.com/photo-1600907052196-cf43f0b3f8f1" alt="Plumber at work">
-<img src="https://images.unsplash.com/photo-1570129477492-45c003edd2be" alt="Pipes and tools">
-<img src="https://images.unsplash.com/photo-1593971584086-90609f80f36f" alt="Sink repair">
-<img src="https://images.unsplash.com/photo-1616401784801-1a6ef07a2b2d" alt="Modern plumbing">
-<img src="https://images.unsplash.com/photo-1581579181947-1c1b5f7a0b67" alt="Plumbing tools">
-<img src="https://images.unsplash.com/photo-1590650046871-2d1d4d3c2b0e" alt="Plumber fixing pipes">
+<img src="https://cdn.vectorstock.com/i/1000v/25/96/repair-plumbing-symbol-vector-1832596.jpg" alt="Plumbing Services">
+<img src="https://c8.alamy.com/comp/2PNTBJY/plumber-cartoon-colored-clipart-illustration-2PNTBJY.jpg" alt="Plumber at work">
+<img src="https://www.riskfreeserv.com/wp-content/uploads/2021/12/Why-is-it-called-plumbing.jpg" alt="Pipes and tools">
+<img src="https://t4.ftcdn.net/jpg/02/16/28/29/360_F_216282910_yjxZDV8zDD2FaaBzxaQcNBhFMnmpuoFj.jpg" alt="Sink repair">
+<img src="https://thumbs.dreamstime.com/z/plumber-tools-working-accessories-set-friendly-smiling-cartoon-professional-man-plumber-character-standing-uniform-183555708.jpg" alt="Modern plumbing">
+<img src="https://friendlystock.com/wp-content/uploads/2022/05/8-plumber-bathroom-sink-cartoon-clipart.jpg" alt="Plumber fixing pipes">
 </div>
 <div class="contact">
 <h2>Contact Us</h2>
